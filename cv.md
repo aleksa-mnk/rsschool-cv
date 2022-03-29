@@ -83,7 +83,7 @@ let mySplit = (string, delim) => {
 * Minsk State Regional Lyceum
     + physics and mathematics profile
 * Courses
-    + Institute of Applied Mathematics and Information Technologies, vzw - ([IAmIT](https://iamit.net/))/
+    + Institute of Applied Mathematics and Information Technologies, vzw - ([IAmIT](https://iamit.net/))
     + RS Schools - «JavaScript/Front-end 2022Q1» (in proggress)
 ---
 
