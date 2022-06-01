@@ -25,11 +25,9 @@ My goal is to gain experience and be ready for any front-end tascks.
 * Git
 * VS Code 
 * SQL
-* PHP
 * C++
-* Vue
-* jQuery  
-* React
+* PHP (base)
+* jQuery (base)
 
 ---
 
@@ -75,7 +73,7 @@ let mySplit = (string, delim) => {
 ## **Projects** ##
 
 [CV project](https://aleksa-mnk.github.io/rsschool-cv/)\
-[TG bot **"MoneyKeeper"**](https://github.com/aleksa-mnk/MoneyKeeperTgBot/)
+[TG bot **"MoneyKeeper"**](https://t.me/MoneyKeeperTgBot)
 
 ---
 
