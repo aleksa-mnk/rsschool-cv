@@ -1,33 +1,35 @@
-# **Aleksa Mankevich** #
+# **Aleksa Mankevich**
+### 📍 Minsk, Belarus
 
 ---
 
-## **Contacts** ##
-**Location:** Minsk, Belarus\
-**Phone:** +375 25 663-93-23\
+## **Contacts**
+
 **Email:** alyonamankevich@gmail.com\
-**GitHub:** aleksa-mnk\
-**Discord:** Aleksa #5715
+**Phone:** +375 25 663-93-23\
+**Discord:** Aleksa #5715\
+**Linkedin:** [Aleksa Mankevich](https://www.linkedin.com/in/alyona-mankevich-01b67a239)
 
 ---
 
 ## **About me** ##
-I am 17 years old and I decided to study front-end development. Prior to that, I tried myself in backend development. It was exciting..
 
-My goal is to gain experience and be ready for any front-end tascks.   
+I am 17 years old and I decided to study front-end development. Prior to that, I tried myself in backend development. It was exciting..\
+My goal is to gain experience and be ready for any front-end tascks.
 
 ---
 
 ## **My skills** ##
-* HTML
-* CSS
-* JavaScript 
-* Git
-* VS Code 
-* SQL
-* C++
-* PHP (base)
-* jQuery (base)
+
+- JavaScript (ES6+), TypeScript
+= HTML, CSS
+- CSS Modules, BEM, SASS (SCSS)
+- Git, GitHub
+- Webpack, ESLint
+- Node.js
+- Algorithms, Data Structures
+- OOP
+- Figma, Adobe Photoshop
 
 ---
 
@@ -72,8 +74,12 @@ let mySplit = (string, delim) => {
 
 ## **Projects** ##
 
-[CV project](https://aleksa-mnk.github.io/rsschool-cv/)\
-[TG bot **"MoneyKeeper"**](https://t.me/MoneyKeeperTgBot)
+- [CV project](https://aleksa-mnk.github.io/rsschool-cv/)
+- [TG bot **"MoneyKeeper"**](https://t.me/MoneyKeeperTgBot)
+- [Online Store](https://aleksa-mnk-online-store.netlify.app/)
+- [Async Race](https://rolling-scopes-school.github.io/aleksa-mnk-JSFE2022Q1/async-race/#/) (just works after server start)
+- [CSS Mem Slider](https://aleksa-mnk.github.io/cssMemSlider/cssMemSlider/index.html)
+- [Virtual Keyboard](https://aleksa-mnk.github.io/virtual-keyboard/src/)
 
 ---
 
@@ -82,7 +88,7 @@ let mySplit = (string, delim) => {
     + physics and mathematics profile
 * Courses
     + Institute of Applied Mathematics and Information Technologies, vzw - ([IAmIT](https://iamit.net/))
-    + RS Schools - «JavaScript/Front-end 2022Q1» (in proggress)
+    + RS Schools - «JavaScript/Front-end 2022Q1» (in proggress, stage 2)
 
 ---
 
